@@ -5,7 +5,7 @@ const en = {
     photoAlt: "Portrait of Alexandre Telles",
     logoAlt: "Grupo Ativa Brasil logo",
     role: "CEO",
-    location: "Palhoça, SC · Brazil",
+    location: "São Paulo · Florianópolis, Brazil",
     headline: "Leading Innovation, Manufacturing & Global Partnerships",
     description1:
       "CEO of Grupo Ativa Brasil, a Brazilian contract manufacturing company specializing in cosmetics, dermocosmetics, wellness products and dietary supplements.",
@@ -55,7 +55,7 @@ const pt: Dict = {
     photoAlt: "Retrato de Alexandre Telles",
     logoAlt: "Logotipo do Grupo Ativa Brasil",
     role: "CEO",
-    location: "Palhoça, SC · Brasil",
+    location: "São Paulo · Florianópolis, Brasil",
     headline: "Liderando Inovação, Manufatura e Parcerias Globais",
     description1:
       "CEO do Grupo Ativa Brasil, empresa brasileira de manufatura terceirizada especializada em cosméticos, dermocosméticos, produtos de bem-estar e suplementos alimentares.",
