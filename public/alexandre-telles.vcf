@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Telles;Alexandre;;;
+FN:Alexandre Telles
+ORG:Grupo Ativa Brasil
+TITLE:CEO
+TEL;TYPE=CELL,VOICE:+5511993233345
+EMAIL;TYPE=INTERNET,WORK:alexandre@grupoativabrasil.com
+URL:https://grupoativabrasil.com/
+ADR;TYPE=WORK:;;Rua Albatroz, 282 - Pedra Branca;Palhoça;SC;88135-000;Brazil
+END:VCARD
